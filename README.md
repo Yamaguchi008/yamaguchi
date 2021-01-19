@@ -19,7 +19,7 @@
 2. AUDIO
 ・出力するサポート音声が入ったファイル
 ・本プログラムでは0kmから4km通過まで，1kmごとの音声が入っている
-・本音声はhttps://note.cman.jp/other/voice/を用いて作成した
+・本音声は https://note.cman.jp/other/voice/ を用いて作成した
 2.1. 00.mp3，01.mp3，02.mp3，03.mp3，04.mp3
 ・ファイル名の数字を読み上げる音声
 2.2. km_over.mp3
