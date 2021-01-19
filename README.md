@@ -1,7 +1,7 @@
 # 成果物 "装着するだけで運動をアシストしてくれる装置"
 
 ## 機能  
-・装置を体に装着することで装着者の運動量を計測
+・装置を体に装着することで装着者の運動量を計測  
 ・スイッチを押すことで,装置から運動をアシストする音声を出力
 
 ## 使用方法  
@@ -25,10 +25,10 @@
 2.2. km_over.mp3  
 ・「km通過しました」と読み上げる音声  
 
-3. PLAYLIST 
-・サポート音声のプレイリストが入ったファイル
-3.1. TRACK_Dx.csv (xは0から4までの数字)
-・上記のxが走行距離に対応している
+3. PLAYLIST   
+・サポート音声のプレイリストが入ったファイル  
+3.1. TRACK_Dx.csv (xは0から4までの数字)  
+・上記のxが走行距離に対応している  
 
 ## SysMLモデル  
 ![スライド1](https://user-images.githubusercontent.com/55196978/105039140-8b68c380-5aa3-11eb-8d15-6a7670e584bb.JPG)
@@ -41,5 +41,5 @@
 MIT  
 
 ## 合成音声 ライセンス
-![LISENCE](https://user-images.githubusercontent.com/55196978/105039465-eef2f100-5aa3-11eb-98f3-e4e0cb44beef.png)
+![LISENCE](https://user-images.githubusercontent.com/55196978/105039465-eef2f100-5aa3-11eb-98f3-e4e0cb44beef.png)  
 HTS Voice "Mei(Normal)" Copyright (c) 2009-2013 Nagoya Institute of Technology
